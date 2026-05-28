@@ -17,9 +17,9 @@ The pilots who handle the merge well win. The pilots who do not, die.
 
 ## What Happens at the Merge
 
-Before I tell you how to handle the merge, I need to tell you what the merge actually is, because most rookies have a fuzzy and romantic idea of it that bears little relationship to what happens in an actual combat engagement.
+Before I tell you how to handle the merge, I need to tell you what the merge actually is, because most new pilots have a fuzzy and romantic idea of it that bears little relationship to what happens in an actual combat engagement.
 
-The merge is not a duel. It is not two knights jousting. It is not a stately exchange of fire as two pilots pass each other in the sky.
+The merge is not a duel. It is not two knights jousting. It is not a stately exchange of fire as two pilots pass each other in the dark.
 
 The merge is a blindingly fast geometric event in which two ships, approaching each other at a combined closure rate that may exceed several thousand meters per second, have a brief window, sometimes less than a second, in which they are within weapons range of each other. During this window, both pilots must simultaneously acquire their target, assess the geometry, make a tactical decision, and execute that decision.
 
@@ -69,7 +69,7 @@ If the entire engagement has gone badly, if you are outnumbered, outmatched, out
 
 The critical thing, for present purposes, is that you pick one of these four decisions, and you commit to it within the first two seconds of the merge.
 
-Rookies die because they cannot decide. They hover between shooting and turning. They start to extend and then think better of it and try to turn, and in the middle of the turn they decide to disengage, and the enemy kills them in the middle of their third change of mind.
+Green pilots die because they cannot decide. They hover between shooting and turning. They start to extend and then think better of it and try to turn, and in the middle of the turn they decide to disengage, and the enemy kills them in the middle of their third change of mind.
 
 Pick a decision. Commit to it. Execute it.
 

@@ -6,7 +6,7 @@ THE turn, properly understood, is a transaction.
 
 You are trading energy for angle.
 
-A great many rookies, and a depressing number of journeymen, do not understand this. They think of the turn as a maneuver, a thing you do with the stick, and they evaluate it by how tight it is and how fast it is and how impressive it looks to the pilots watching. They do not think about what the turn is costing them.
+A great many new pilots, and a depressing number of journeymen, do not understand this. They think of the turn as a maneuver, a thing you do with the stick, and they evaluate it by how tight it is and how fast it is and how impressive it looks to the pilots watching. They do not think about what the turn is costing them.
 
 Every turn costs you energy.
 
@@ -37,7 +37,7 @@ The crisis is a moment, a moment in which you must turn right now or die. A miss
 
 The fight is everything else. The long minutes of maneuvering, the circling, the positional contest that makes up ninety-five percent of any engagement. In the fight, you turn at the sustained rate. Always. Always. Always.
 
-Rookies turn at the instantaneous rate the entire fight, because it feels right, because it feels like they are doing something, because their reflexes are telling them to pull harder and faster. They feel like heroes in the cockpit, and they are dead in two minutes.
+Green pilots turn at the instantaneous rate the entire fight, because it feels right, because it feels like they are doing something, because their reflexes are telling them to pull harder and faster. They feel like heroes in the cockpit, and they are dead in two minutes.
 
 Discipline yourself.
 
@@ -48,7 +48,7 @@ I will tell you something now that I wish someone had told me when I was young.
 
 The vertical is your friend.
 
-Most rookies fight as if they are in an atmosphere, as if their only options for maneuver are in the flat plane. They turn left, they turn right, they circle. They treat altitude as a number on their instrument panel, not as a dimension of the fight.
+Most new pilots fight as if they are in an atmosphere, as if their only options for maneuver are in the flat plane. They turn left, they turn right, they circle. They treat altitude as a number on their instrument panel, not as a dimension of the fight.
 
 This is a catastrophic error.
 
@@ -62,7 +62,7 @@ When you are outmatched in pure performance, use the vertical.
 
 The pilot who thinks in three dimensions will almost always beat the pilot who thinks in two, even if the two-dimensional pilot is flying a faster ship or has better guns. The third dimension is a free gift to the pilot who remembers they have it.
 
-I have killed pilots who, on paper, should have killed me. I killed them because they thought of the sky as a plane. I thought of it as a sphere. And while they were circling me, trying to get a shot in the horizontal, I was climbing above them, or diving below them, or inverting through the vertical to take a shot they never saw coming.
+I have killed pilots who, on paper, should have killed me. I killed them because they thought of the dark as a plane. I thought of it as a sphere. And while they were circling me, trying to get a shot in the horizontal, I was climbing above them, or diving below them, or inverting through the vertical to take a shot they never saw coming.
 
 The vertical does not look dramatic on a flat tactical display. It does not show up well in after-action reports. Young pilots who watch combat footage often do not even notice it is happening.
 
@@ -92,11 +92,11 @@ Conversely, when the enemy holds the height and you do not, do not fight them wh
 
 ## The Reversal
 
-One more concept before I let you go on to the gunnery chapter, because this is a concept that rookies almost always get wrong.
+One more concept before I let you go on to the gunnery chapter, because this is a concept that young pilots almost always get wrong.
 
 The reversal is the moment in a dogfight when both pilots change direction simultaneously, typically to bring guns to bear on each other. It is the natural outcome of a sustained turning fight, two pilots circling, each trying to get behind the other, eventually reaching a geometry where a reversal is the logical next move.
 
-The temptation, for a rookie, is to reverse as soon as they see the opportunity, because the reversal feels aggressive. They think they are taking the initiative.
+The temptation, for the green pilot, is to reverse as soon as they see the opportunity, because the reversal feels aggressive. They think they are taking the initiative.
 
 What they are actually doing is committing to a pattern their opponent has already planned for.
 
