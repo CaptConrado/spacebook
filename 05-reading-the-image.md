@@ -38,13 +38,13 @@ A pilot whose attention is fixed is a pilot who is blind.
 
 Target fixation is the name we give to the phenomenon of a pilot locking their eyes onto their target and being unable to look away.
 
-It happens to rookies constantly. It happens to veterans occasionally. It has killed more aces than any single enemy weapon in the history of combat flying.
+It happens to new pilots constantly. It happens to veterans occasionally. It has killed more aces than any single enemy weapon in the history of combat flying.
 
 Here is how it goes. A pilot engages an enemy ship. They close. They align their guns. They are, in their own mind, about to make the kill. And in the final seconds of their approach, all of their attention, every bit of their cognitive bandwidth, every scrap of their peripheral awareness, every inch of their field of view, narrows down onto the silhouette of the enemy in their gunsight.
 
 They do not see the second enemy coming in from their five o’clock.
 
-They do not see the ground rushing up at them.
+They do not see the rock they are about to fly into.
 
 They do not see the wingman of the ship they are about to shoot, sliding in on their blind side for the kill.
 
@@ -64,7 +64,7 @@ That is acceptable.
 
 What is not acceptable is being so fixed on your target that you fail to notice the pilot who is about to kill you.
 
-A kill is a kill. Next pass. The pilot who dies in the middle of making a kill is not a hero. They are a corpse with a final guncam recording, and the recording will be shown to rookies in flight school as an example of how not to die.
+A kill is a kill. Next pass. The pilot who dies in the middle of making a kill is not a hero. They are a corpse with a final guncam recording, and the recording will be shown to nuggets in flight school as an example of how not to die.
 
 Do not be that recording.
 
@@ -75,13 +75,13 @@ There is a related phenomenon, less dramatic than target fixation but in some wa
 
 This is what happens to a pilot whose eyes have simply stopped working.
 
-They are tired. The mission has been long. They have been flying for three or four hours, and their scan has gradually degraded from a disciplined sweep into an unfocused gaze, and finally into nothing at all. Their eyes are open. They are looking forward. But they are not seeing anything. Their brain has stopped processing visual information. They are, effectively, flying blind in a clear sky.
+They are tired. The mission has been long. They have been flying for three or four hours, and their scan has gradually degraded from a disciplined sweep into an unfocused gaze, and finally into nothing at all. Their eyes are open. They are looking forward. But they are not seeing anything. Their brain has stopped processing visual information. They are, effectively, flying blind in the open dark.
 
 The dead man’s stare kills pilots in the final hour of long sorties, on the way home, when the fight should be over and they have let themselves go soft.
 
 The enemy knows this.
 
-The enemy will wait for the tired pilots, the stragglers, the ones who think they are safe because they are heading back to base. And they will fall on them from the quarter the dead-man’s-stare pilot has stopped watching.
+The enemy will wait for the tired pilots, the stragglers, the ones who think they are safe because they are heading back to base. And they will fall on them from the one direction the fatigued pilot has stopped watching.
 
 The defense against the dead man’s stare is to know that it happens, and to catch yourself when it is happening, and to physically reset your eyes.
 
@@ -98,7 +98,7 @@ The image lies. Not always. Not even often. But enough that the pilot who trusts
 
 Consider the phantom. The other side carries electronic warfare craft whose whole purpose is to feed your sensors contacts that are not there, ships of pure fiction that your synthesis will paint as solidly as the real ones, sitting in your image at a range and bearing you can read off as plainly as truth. Fire a missile at a phantom and you have spent one of the few you carry on nothing. Turn to fight a phantom and you have given your back to the real ship that the phantom was sent to hide. Our own electronic warfare crews do the same to them, and a hard engagement can fill the volume around you with more ghosts than men. Learning to feel which contacts are real, by the way they move, by what the rest of the picture is doing, by the small wrongnesses that no amount of fakery quite erases, is not a thing I can teach you in a book. It is a thing you will learn in the dark, slowly, and the price of the early lessons is high.
 
-Consider the dark itself. Radiation, the debris of old fighting, the wash of a nearby star, a cloud of dust that should mean nothing, any of these can thin your image, smear it, fill it with noise, or quietly subtract a contact that is really there. The pilot who picks the ground of the fight is choosing, among other things, what his enemy's image will and will not show. The old hands read the weather of the dark the way a sailor reads the sky, and they fly accordingly.
+Consider the dark itself. Radiation, the debris of old fighting, the wash of a nearby star, a cloud of dust that should mean nothing, any of these can thin your image, smear it, fill it with noise, or quietly subtract a contact that is really there. The pilot who picks the ground of the fight is choosing, among other things, what their enemy's image will and will not show. The old hands read the weather of the dark the way a sailor reads the sky, and they fly accordingly.
 
 So the rule I was given by old “Blacksmith” Moray, in the early Rigel years, was not the rule the old books taught. It was harder. Trust the image enough to act on it, he said, and never so much that it can surprise you. A pilot who will not act until they are certain is already dead, because certainty does not come in time. A pilot who acts on the image as if it were the truth itself is dead the first time it lies. You must live in the narrow place between, believing and doubting at once, and you must do it for every second of every sortie.
 
