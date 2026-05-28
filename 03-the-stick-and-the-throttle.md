@@ -6,7 +6,7 @@ _PART ONE_
 
 EVERYTHING a fighter pilot does, they do with their hands.
 
-I do not say this to be poetic. I say it because it is literally true, and because most of the rookies I have trained have not understood it in their bones until they have been told repeatedly and been made to demonstrate it repeatedly and been made to understand that all their other training, their navigation, their tactics, their gunnery, their communications, is transmitted from their brain to their ship through two pieces of hardware. The stick in their right hand. The throttle in their left.
+I do not say this to be poetic. I say it because it is literally true, and because most of the new pilots I've trained have not understood it in their bones until they have been told repeatedly and been made to demonstrate it repeatedly and been made to understand that all their other training, their navigation, their tactics, their gunnery, is transmitted from their brain to their ship through two pieces of hardware. The stick in their right hand. The throttle in their left.
 
 If the connection between the pilot’s mind and those two pieces of hardware is poor, nothing else in the pilot’s training matters.
 
@@ -29,7 +29,7 @@ A good grip on the stick is firm but not tight.
 
 Say that back to yourself. Firm. But not tight.
 
-A rookie’s instinct, the first time they strap into a real combat cockpit, is to squeeze the stick like they are trying to wring water from it. This is the worst possible thing they can do, for three reasons.
+A new pilot’s instinct, the first time they strap into a real combat cockpit, is to squeeze the stick like they are trying to wring water from it. This is the worst possible thing they can do, for three reasons.
 
 First, a tight grip fatigues the hand. Combat sorties run long, and a pilot who is squeezing their stick will have a hand full of cramps by the time they need it most. I have seen pilots lose engagements in the final minutes because their stick hand had gone numb.
 
@@ -47,7 +47,9 @@ This is important and it is widely misunderstood.
 
 A pilot who grips with their palm is flying with their arm. A pilot who grips with their fingers is flying with their hand and their wrist. The hand and the wrist are faster and more precise than the arm. The arm should be used only for gross movements, a hard bank, a violent reversal. For everything else, the hand and the wrist do the work.
 
-Most rookies, if you watch their right arm during a training flight, are flying with their whole shoulder. Their elbow is locked. Their arm is stiff. They are moving the stick with their entire upper body, as if they were rowing a boat. This is how they have been taught to hold a heavy tool, and the stick is not a heavy tool. The stick is a conversation piece.
+Most nuggets, if you watch their right arm during a training flight, are flying with their whole shoulder. Their elbow is locked. Their arm is stiff. They are moving the stick with their entire upper body, as if they were rowing a boat. This is how they have been taught to hold a heavy tool, and the stick is not a heavy tool. The stick is a conversation piece.
+
+One more thing about the grip, and then we will leave it. The stick you learn on is the standard issue, the same shape in every hand. In time, if you live and you earn it, you may have the grip molded to your own hand, and you will understand the first time you fly with it why the old pilots guard theirs so jealously. But do not be in a hurry. A molded grip in an untrained hand only lets you make your mistakes more comfortably. Earn the hand first. The grip will come to fit it.
 
 Relax the shoulder. Relax the elbow. Let the hand and the wrist do the work.
 
@@ -58,7 +60,7 @@ Your left hand is on the throttle. This is the hand that controls your energy, a
 
 The throttle is simpler than the stick. It has one job, which is to tell the engines how much power to produce, and the pilot’s job is to tell the throttle what they want. But because the throttle is simpler, most pilots do not think about it enough, and this is where the throttle starts to kill them.
 
-I have watched hundreds of rookies sit in the cockpit, and I can tell you that roughly nine out of ten of them, when things get interesting, forget that their left hand exists.
+I have watched hundreds of green pilots sit in the cockpit, and I can tell you that roughly nine out of ten of them, when things get interesting, forget that their left hand exists.
 
 They slam the throttle to the firewall at the first sign of trouble, and they leave it there.
 
@@ -82,6 +84,8 @@ The stick and the throttle must work together. This sounds obvious. It is not.
 I have watched pilots, pilots with years of experience, pilots with combat awards, whose left and right hands appeared to belong to two different aviators. The stick hand would be pulling into a tight turn, and the throttle hand would be sitting at eighty percent, doing nothing. The throttle hand would be chopping for maneuver, and the stick hand would be holding a lazy course. The two hands were not cooperating. They were not even in the same conversation.
 
 Good flying, the kind of flying that wins fights and brings you home, is a duet. The stick and the throttle are two instruments playing one tune. Every input on the stick should be accompanied by an appropriate adjustment on the throttle. Every throttle change should be reflected in how you handle the stick. They are not independent systems. They are two halves of a single action, which is the action of flying the ship.
+
+I should say a word here about the rest of what the ship tells you, because new pilots get confused on this point. A modern fighter speaks to your body directly. Through the sensor in your helmet you will feel your fuel, your heat, your weapons, your ammunition, not as numbers on a screen but as sensations, the way you feel hunger or cold. It is a marvel and we will spend the whole of the next chapter on it. But understand now that none of it is flying. The link tells you the state of the ship. The hands decide what the ship does. A pilot who confuses the two, who thinks that because they can feel the ship they are therefore flying it, is a passenger with good instruments.
 
 When I watch a young pilot fly, the first thing I look at is not their turns or their shooting or their positioning.
 
