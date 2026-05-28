@@ -12,7 +12,7 @@ I have watched more pilots kill themselves through bad posture than through bad 
 
 I will say that again, because I can see you rolling your eyes.
 
-More pilots die from how they sit in the cockpit than from any of the glamorous, dramatic failures you have been taught to worry about. They die because they cannot pull a hard turn without graying out. They die because they cannot reach the controls they need to reach when they need to reach them. They die because their heads are jammed against the canopy and they cannot see. They die because their harness is loose and their body is slamming around inside the cockpit during maneuver, and by the time the fight is over they have broken ribs or a dislocated shoulder and they are flying home with one hand and half a brain.
+More pilots die from how they sit in the cockpit than from any of the glamorous, dramatic failures you have been taught to worry about. They die because they cannot pull a hard turn without graying out. They die because they cannot reach the controls they need to reach when they need to reach them. They die because their head is in the wrong place and they cannot see. They die because their harness is loose and their body is slamming around inside the cockpit during maneuver, and by the time the fight is over they have broken ribs or a dislocated shoulder and they are flying home with one hand and half a brain.
 
 All of this is preventable.
 
@@ -40,7 +40,7 @@ Your feet are on the rudder pedals.
 
 Both feet. At all times. Flat against the pedals, not perched on the balls of your feet, not tucked underneath, not resting on the cockpit floor. Your feet are part of the control system, and they need to be where the control system needs them to be, at all times.
 
-A pilot whose feet wander off the pedals during a long cruise is a pilot who is going to have to scramble them back into position when the shooting starts, and that scramble is going to cost them the fight.
+A pilot whose feet wander off the pedals during a long cruise is a pilot who is going to have to scramble them back into position when the shooting starts, and that scramble is going to cost them precious seconds.
 
 Put your feet on the pedals when you climb in. Leave them there until you climb out.
 
@@ -51,7 +51,7 @@ The harness is not a seatbelt. It is not there to keep you comfortable. It is th
 
 A properly adjusted harness is tight enough that you cannot slip a finger between the strap and your body. Not tight enough to cut off your circulation, but tight enough that you are, in a real sense, bolted to the ship. When the ship maneuvers, you maneuver with it. When the ship pulls nine g’s, you pull nine g’s, and your organs do not slide around inside your torso.
 
-Most rookies, and a distressing number of veterans, wear their harnesses loose.
+Most new pilots, and a distressing number of veterans, wear their harnesses loose.
 
 They do this because a tight harness is uncomfortable on long flights. This is true. A tight harness is uncomfortable. A loose harness is worse than uncomfortable, it is a death sentence in any fight that involves real maneuver.
 
@@ -85,7 +85,7 @@ Your helmet reads you. There is a sensor in it that listens to your nervous syst
 
 The ship talks back the same way. The four things that will kill you if you stop attending to them, your fuel, your heat, the temperature of your weapons, and the rounds you have left, are given to you three ways at once. There is a screen, if you want to read a number. There is a figure laid into the image, if you want to glance at it. And there is the thing underneath both, the sensation the helmet feeds directly into your body, so that you know your fuel is low the way you know you are hungry, and you feel your weapons running hot the way you feel a fever coming on. You do not read these. You feel them.
 
-A young pilot has the sensation but has not yet learned to trust it. They feel the warmth of a hot gun and have to stop and think what it means, the way a child sounds out a word before they know it. By the time they have translated the feeling into a fact and the fact into a decision, the moment is gone. A veteran does not translate. Their body simply knows, and acts, and is on to the next thing before the rookie has finished reading the screen. This is most of what we mean when we say a pilot has hours. The hours are in the body. They cannot be put there by a book, including this one. They can only be flown in.
+A young pilot has the sensation but has not yet learned to trust it. They feel the warmth of a hot gun and have to stop and think what it means, the way a child sounds out a word before they know it. By the time they have translated the feeling into a fact and the fact into a decision, the moment is gone. A veteran does not translate. Their body simply knows, and acts, and is on to the next thing before the nugget has finished reading the screen. This is most of what we mean when we say a pilot has hours. The hours are in the body. They cannot be put there by a book, including this one. They can only be flown in.
 
 Understand one hard thing about this, and carry it with you. The helmet reads what is actually in you. It does not read the pilot you wish you were. If what is in you is calm, it gives the ship calm. If what is in you is panic, it gives the ship panic, faster and more faithfully than you could have managed with your hands. The interface does not save you from yourself. It is a clearer mirror than most people ever have to look into, and it shows the ship exactly what is there. The whole of the discipline in this book is, in one way or another, the work of making sure that what is there is worth showing it.
 
