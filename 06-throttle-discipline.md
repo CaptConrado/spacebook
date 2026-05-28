@@ -35,6 +35,8 @@ Combat engagements are frequently decided not by the pilot who shoots the best, 
 
 Do not be that veteran.
 
+I think of a pirate vessel I tangled with in the asteroid fields of Ceres, late in the campaign. We had been at it for the better part of twenty minutes, both of us, by then, on whatever was left in the tanks. They were the better pilot. I will say that plainly. They turned tighter than I did and they shot straighter, and on any honest accounting they should have killed me. They did not, because at some point in the first minute of the fight they had decided to burn for it, and I had decided to wait. When their engines finally went quiet, mine were not quiet yet, and that was the whole of the difference. I do not tell you this story to flatter myself. I tell you because the better pilot died that day, and the more patient one came home, and there is a lesson in that.
+
 
 ## The Gears of the Throttle
 
@@ -48,7 +50,7 @@ There is combat power. This is the setting for engagement. It is the throttle po
 
 And there is military power, sometimes called burnout or firewall. This is the throttle against the stop, the engines giving everything they have, propellant pouring through at the maximum rate the ship will allow. Military power is your sprint setting. You use it for seconds, not minutes, and not only because of what it costs you in fuel. Held too long, it cooks you. The engines and the hull shed heat only so fast, and past a certain point the ship crosses into the redline where the structure itself begins to suffer, where plating warps and seams complain and the airframe quietly spends some of the life it was built with. There is no hard wall that stops you. The ship will let you ruin it. That is precisely why military power demands discipline: you use it to close a critical gap, to break a critical threat, to buy a critical margin, and then you bring it back to combat power or cruise the moment the crisis passes, before the heat and the strain start taking back more than the burst was worth.
 
-The rookie's habit, always, is to spend too much time in the higher gears. They fire up their engines at military power on takeoff and never come down. They engage at military power and stay there through the whole fight. They run home at military power because they are rattled, and they land on fumes.
+The nugget's habit, always, is to spend too much time in the higher gears. They fire up their engines at military power on takeoff and never come down. They engage at military power and stay there through the whole fight. They run home at military power because they are rattled, and they land on fumes.
 
 The ace’s habit, by contrast, is to spend as much time as possible in the lower gears. They cruise home when they can, not because they are lazy, but because every second they spend cruising is a second of fuel they have not spent, and that fuel is a reserve they can draw on in the next engagement.
 
@@ -67,7 +69,7 @@ Every moment of coast, every straight-line cruise, every dive that converts alti
 
 A combat engagement, viewed through this lens, is a race to bankrupt the other pilot before they bankrupt you. If you can force them to spend their energy faster than they can replace it, you will win. If they can force you to do the same, they will win. The pilot with the healthier bank account at any given moment has the advantage.
 
-The implications of this model are profound, and most rookies do not fully grasp them until they have been in combat for some time.
+The implications of this model are profound, and most green pilots do not fully grasp them until they have been in combat for some time.
 
 It means that you do not engage on your opponent’s terms. If you can force your opponent to burn harder than you, you should.
 

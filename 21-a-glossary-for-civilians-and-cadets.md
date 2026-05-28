@@ -92,6 +92,6 @@ Vertical, the. The third dimension of maneuvering, upward and downward, as oppos
 
 Wing, wingman. The pilot flying in the supporting position in a two-ship formation. See Chapter 8.
 
-This book is dedicated to Elena Vasquez, who saved my life over Meridian Prime, and to the memory of all the pilots whose lessons I have tried to pass on.
+This book is dedicated to Elena Vasquez, who saved my life and became an Ace over Meridian Prime, and to the memory of all the pilots whose lessons I have tried to pass on.
 
 . B.T.
