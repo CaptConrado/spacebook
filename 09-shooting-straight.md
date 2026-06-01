@@ -31,14 +31,14 @@ Three. Trigger discipline. You must fire at the right moment, for the right dura
 
 All three components must be present for a successful shot. If any one is missing, the shot fails.
 
-Most rookies focus on trigger discipline, because it is the most obvious component. They think of gunnery as a matter of pulling the trigger at the right moment. They are wrong. Trigger discipline is the easiest component to learn, and it is the least important.
+Most new pilots focus on trigger discipline, because it is the most obvious component. They think of gunnery as a matter of pulling the trigger at the right moment. They are wrong. Trigger discipline is the easiest component to learn, and it is the least important.
 
 Position and tracking are the hard parts. And they are also, not coincidentally, the parts that come from good flying rather than from shooting practice.
 
 
 ## Lead
 
-Let me talk for a moment about lead, because this is the concept that rookies most frequently misunderstand.
+Let me talk for a moment about lead, because this is the concept that young pilots most frequently misunderstand.
 
 Lead is the amount you aim ahead of the target to account for the time it takes your projectiles to reach it. If the target is moving, and your projectile takes time to travel, you cannot aim directly at the target. You must aim at where the target will be by the time the projectile arrives.
 
@@ -50,7 +50,7 @@ The first variable is range. The farther away the target is, the longer your pro
 
 The second variable is the target’s crossing speed, the component of its velocity that is perpendicular to your line of fire. A target moving directly toward you or away from you requires no lead at all. A target moving across your line of sight requires substantial lead.
 
-The third variable is your own velocity. This is where rookies often go wrong. They think of lead as a property of the target, but it is actually a property of the relative motion between your ship and the target. If you are both moving at high speed in the same direction, there may be very little effective crossing speed, and very little lead required. If you are moving in opposite directions, the effective crossing speed is enormous, and the required lead is substantial.
+The third variable is your own velocity. This is where the inexperienced often go wrong. They think of lead as a property of the target, but it is actually a property of the relative motion between your ship and the target. If you are both moving at high speed in the same direction, there may be very little effective crossing speed, and very little lead required. If you are moving in opposite directions, the effective crossing speed is enormous, and the required lead is substantial.
 
 Your gunsight will compute lead for you. Every modern fighter has a computer that takes in the target’s position and velocity and shows you where to aim. You would think this would solve the problem.
 
@@ -77,11 +77,11 @@ Moreover, long bursts heat up your guns. Most fighter weapons systems have therm
 
 Short bursts. Two seconds. No more. If the first burst missed, you do not continue firing, you cease fire, reassess, reposition, and set up another shot.
 
-Rookies hold the trigger down. They empty their magazines at a target that is not in their sight picture. They come home with no ammunition and no kills and they wonder what went wrong.
+Green pilots hold the trigger down. They empty their magazines at a target that is not in their sight picture. They come home with no ammunition and no kills and they wonder what went wrong.
 
 What went wrong is that they were never taught the discipline of the short burst, and they have not yet learned it through experience, and many of them will not live long enough to learn it.
 
-Do not be one of those rookies.
+Do not be one of them.
 
 
 ## The Deflection Shot
