@@ -16,11 +16,11 @@ And then one of my pilots, a Lieutenant named Elena Vasquez, twenty-four years o
 
 She lived. I lived.
 
-I owe her my life. I want to be precise about the size of that debt, because it is larger than the single afternoon over Meridian Prime suggests. Vasquez was not in the habit of saving only me. She did it again and again across her career, for pilot after pilot, going into the place no sane flier would go because someone was in it who needed bringing out. It is why she has so many friends among people who do not, as a rule, make friends easily, the senior officers of three fleets who are alive because a quiet Lieutenant from New Jalisco decided their lives were worth more than her own margin. In the end it cost her. She went in one time too many, took an injury that ended her flying, and was put on the ground for good while she was still, by any measure of skill, the best pilot I ever knew. She is alive as I write this. She does not fly anymore. She is the one who asked me to write this book, and when Elena Vasquez asks you for something, you have already spent forty years learning that the only answer is yes.
+I owe her my life. I want to be precise about the size of that debt, because it is larger than the single afternoon over Meridian Prime suggests. Vasquez was not in the habit of saving only me. She did it again and again across her career, for pilot after pilot, going into the place no sane flier would go because someone was in it who needed bringing out. It is why she has so many friends among people who do not, as a rule, make friends easily, the senior officers of three fleets who are alive because a quiet Lieutenant from New Jalisco decided their lives were worth more than her own margin. In the end it cost her. She went in one time too many, took an injury that ended her flying, and was put on the ground for good while she was still, by any measure of skill, the best pilot I ever knew. She is alive as I write this. She does not fly anymore. She is the one who asked me to write this book, and when Elena Vasquez asks you for something, you have already spent forty years learning that the only answer is eventually yes.
 
 I am telling you this story because I want you to understand, from the first sentence of this chapter, that there is no more important person in your professional life than your wingman.
 
-Not your commanding officer. Not your maintenance chief. Not your flight instructor, who is writing this book. Your wingman.
+Not your commanding officer. Not your maintenance chief. Not your flight instructor. Your wingman.
 
 Everything that follows in this chapter is an attempt to explain why that is, and what it means for how you should fly.
 
@@ -58,7 +58,7 @@ The wing's job is not to fly their own fight. The wing's job is not to rack up t
 
 The wing’s job is to protect the lead.
 
-Rookies almost always get this wrong. A rookie wingman, the first time they engage, will see an enemy ship presenting a shooting opportunity, and they will peel off from their lead to take the shot. They may well hit it. They may well get a kill.
+New pilots almost always get this wrong. A new wingman, the first time they engage, will see an enemy ship presenting a shooting opportunity, and they will peel off from their lead to take the shot. They may well hit it. They may well get a kill.
 
 They will probably get their lead killed in the process, because the moment they peeled off, the lead's six was uncovered, and whatever enemy was setting up to exploit that vulnerability, and there is always one, will have done so.
 
@@ -123,7 +123,7 @@ This is not a matter of friendship, though friendship often follows. It is a mat
 
 These partnerships are rare. Guard them when you find them. Volunteer for missions together. Request each other when you can. Build the trust that will, in time, save both your lives.
 
-Elena Vasquez and I were never formally paired. She was a Lieutenant in a wing I commanded, and I was a Group Captain who had no business flying as anyone's wingman by then. But in the stretch of the Meridian campaign that we flew the same sky, we had the thing I am describing. I could keep my attention on the fight because I knew where her attention was. She could commit because she knew I would cover the way out. The chemistry does not care about rank, and it does not last forever, and you should recognize it and be grateful for it on the days you have it.
+Elena Vasquez and I were never formally paired. She was a Lieutenant in a wing I commanded, and I was a Group Captain who had no business flying as anyone's wingman by then. But in the stretch of the Meridian campaign that we flew the same sky, we had the thing I am describing. I could keep my attention on the fight because I knew where her attention was. She could commit because she knew I would cover the way out. She had come to me a careful, bookish flier, all study and no instinct. I spent the better part of a year prying the instinct loose. The chemistry does not care about rank, and it does not last forever, and you should recognize it and be grateful for it on the days you have it.
 
 I have told you she went in once too many and lost her flying to it. I have not told you that I was not there that day either, that the pilot whose life she was saving was not me, that I learned of it the way I have learned of most of the important things in my life, after the fact, from someone else, too far away to have done anything. I thought for a long time about whether I might have changed it had I been her wingman. I thought about it for weeks.
 
