@@ -21,7 +21,7 @@ They turn themselves to death.
 
 There are two kinds of turn, and you must understand the difference between them, because mixing them up will kill you.
 
-The instantaneous turn is the tightest turn your ship can make at a given moment. It is a turn that uses the maximum available lift and the maximum available thrust, and it gives you the fastest possible change of heading. An instantaneous turn is devastatingly useful for things like defensive breaks, evading a missile, or snapping your guns onto a fleeting target.
+The instantaneous turn is the tightest turn your ship can make at a given moment. It is a turn that uses the maximum available maneuvering thrust and the maximum available main thrust, and it gives you the fastest possible change of heading. An instantaneous turn is devastatingly useful for things like defensive breaks, evading a missile, or snapping your guns onto a fleeting target.
 
 The cost of the instantaneous turn is enormous. You bleed energy fast. You cannot sustain the turn for more than a few seconds before your ship is dragging, your speed has dropped, and your options have collapsed. An instantaneous turn is a one-shot weapon. You use it when you absolutely must, and you pay the price, and you recover.
 
@@ -37,7 +37,7 @@ The crisis is a moment, a moment in which you must turn right now or die. A miss
 
 The fight is everything else. The long minutes of maneuvering, the circling, the positional contest that makes up ninety-five percent of any engagement. In the fight, you turn at the sustained rate. Always. Always. Always.
 
-Green pilots turn at the instantaneous rate the entire fight, because it feels right, because it feels like they are doing something, because their reflexes are telling them to pull harder and faster. They feel like heroes in the cockpit, and they are dead in two minutes.
+Undisciplined pilots turn at the instantaneous rate the entire fight, because it feels right, because it feels like they are doing something, because their reflexes are telling them to pull harder and faster. They feel like heroes in the cockpit, and they are dead in two minutes.
 
 Discipline yourself.
 
@@ -81,13 +81,13 @@ This means that in any engagement fought inside a well, the pilot who enters hig
 
 A pilot who enters lower is fighting at a structural disadvantage. They can overcome it, good pilots do, but they have to work harder, burn more, and take more risk to do it.
 
-But understand the limit of this, because it is the kind of thing that kills a pilot who learned the rule without learning its edges. Altitude is energy only where there is a well to fall into. In deep space, far from any world, there is no altitude. There is no up, no down, no free velocity waiting to be spent. There is only your vector and the propellant to change it, and a pilot who flies the open dark as though height still meant something is a pilot reaching for a reserve that is not there. The well is a gift when you are in one. Out in the deep, you have only what is in your tanks, and you had better know which kind of sky you are fighting in before the fight starts, not during it.
+But understand the limit of this, because it is the kind of thing that kills a pilot who learned the rule without learning its edges. Altitude is energy only where there is a well to fall into. In deep space, far from any world, there is no altitude. There is no up, no down, no free velocity waiting to be spent. There is only your vector and the propellant to change it, and a pilot who flies the open dark as though height still meant something is a pilot reaching for a reserve that is not there. The well is a gift when you are in one. Out in the deep, you have only what is in your tanks, and you had better know which kind of dark you are fighting in before the fight starts, not during it.
 
 Inside a well, this has direct tactical implications.
 
 If you are approaching an engagement inside a well, climb before you commit. Get above the enemy and stay there. Do not arrive at the merge at the same height if you can help it. Arrive higher. The height is worth more than the propellant you spent buying it, because you can spend it back into velocity the instant you need it, and the well does the spending for you.
 
-Conversely, when the enemy holds the height and you do not, do not fight them where they are. Climb first to match them, or drag the fight lower in the well where their advantage thins, or break it off and force the next one onto open ground where height means nothing to either of you. What you must never do is grind out a fight from below while they work from above. In a well, that is a fight you will lose. The only mercy of the deep dark is that out there, this particular way of dying does not exist, because out there nobody holds the height. Know which sky you are in.
+Conversely, when the enemy holds the height and you do not, do not fight them where they are. Climb first to match them, or drag the fight lower in the well where their advantage thins, or break it off and force the next one onto open ground where height means nothing to either of you. What you must never do is grind out a fight from below while they work from above. In a well, that is a fight you will lose. The only mercy of the deep dark is that out there, this particular way of dying does not exist, because out there nobody holds the height. Know which dark you are in.
 
 
 ## The Reversal
