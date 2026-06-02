@@ -29,11 +29,13 @@ A wingman is the other pilot in your two-ship formation.
 
 This is the simple, mechanical answer. It is not wrong. But it is like saying that a spouse is the other person on your marriage certificate, technically correct, wildly inadequate to the actual meaning of the thing.
 
+You will remember, from your plebe year, the battle buddy you were not permitted to go anywhere without, for two whole semesters. You thought it was hazing, or discipline for its own sake, or some administrator's idea of building character. It was none of those things. It was the first lesson in what I am about to teach you. They were training the reflex before you were experienced enough to be trusted with the reason.
+
 Your wingman is the pilot whose job it is to keep you alive while you do your job. And your job, in turn, is to keep your wingman alive while they do theirs.
 
 This is not a matter of policy or procedure. It is the fundamental architecture of combat aviation. A single fighter in combat is a vulnerable thing, visible from every direction, coverable from every angle, defensible from none. Two fighters, flying in proper formation, are not twice as capable as a single fighter. They are something more than that, because each pilot’s eyes are watching the sectors the other pilot cannot see, and each pilot’s guns are available to cover the other pilot’s vulnerabilities.
 
-A two-ship formation, well flown, is in some sense a single four-dimensional organism, two ships, two pilots, one tactical unit.
+A two-ship formation, well flown, is in some sense a single four-dimensional organism, two ships, two pilots, one tactical unit. It is the smallest unit the fight is actually fought in. Not the squadron, not the wing, not the lone hero the recruiting vids are so fond of. Two ships. That is the floor. Everything larger is built up out of pairs, and nothing smaller survives.
 
 A two-ship formation, poorly flown, is two individual ships in loose proximity, each one fighting alone and wondering why the other is not helping.
 
