@@ -2,7 +2,7 @@
 
 *Working title: How to Fly Your Best Combat*
 
-By Commodore Robert "Mulligan" Thorne, ret.
+By Commodore Bobby "Mulligan" Thorne, ret.
 Foreword by Rear Admiral Elena Vasquez.
 
 ---
