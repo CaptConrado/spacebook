@@ -39,14 +39,14 @@ A two-ship formation, well flown, is in some sense a single four-dimensional org
 
 A two-ship formation, poorly flown, is two individual ships in loose proximity, each one fighting alone and wondering why the other is not helping.
 
-The difference is in the discipline of the flying. And the discipline of the flying is what this chapter is about.
+The difference is in the discipline of the pilot. And the discipline of the pilot is what this chapter is about.
 
 
 ## The Lead and the Wing
 
 In a two-ship formation, one pilot is the lead and the other is the wing.
 
-These are not rank designations. They are role designations, and they can shift between pilots over the course of a career depending on who is senior, who has more experience, and who is better suited to lead on a particular mission.
+These are not rank designations. They are role designations, and they can shift between pilots over the course of a career, and sometimes within a single engagement, depending on a variety of factors. Sometimes it is the senior pilot, the one with more experience, who leads. Sometimes the lead is the newer pilot, the one who needs the experience. And sometimes it is simply whoever is better suited to lead on a particular mission.
 
 The lead's job is to fly the mission. They are the one making the tactical decisions about the engagement, where to go, when to engage, when to disengage, what targets to prioritize. They fly the offensive pattern. They take the shots.
 
@@ -119,13 +119,13 @@ Do not cover for a bad wingman. A bad wingman will kill you in the end, and your
 
 If you are fortunate, over the course of your career, you will fly with a few wingmen with whom you develop a genuine partnership.
 
-This is not a matter of friendship, though friendship often follows. It is a matter of flying chemistry. You find a pilot whose instincts complement yours, whose reflexes match yours, whose judgment under fire is aligned with yours. When you fly with that pilot, the two-ship formation becomes something more than the sum of its parts. You do not need to speak on the comm channel, because you can read each other’s maneuvers. You do not need to call threats, because you are both seeing the same sky in the same way.
+This is not a matter of friendship, though friendship often follows. It is a matter of flying chemistry. You find a pilot whose instincts complement yours, whose reflexes match yours, whose judgment under fire is aligned with yours. When you fly with that pilot, the two-ship formation becomes something more than the sum of its parts. You do not need to speak on the comm channel, because you can read each other’s maneuvers. You do not need to call threats, because you are both reading the same image in the same way. It is like an elegant dance, two ships moving as though they had rehearsed it.
 
 These partnerships are rare. Guard them when you find them. Volunteer for missions together. Request each other when you can. Build the trust that will, in time, save both your lives.
 
-Elena Vasquez and I were never formally paired. She was a Lieutenant in a wing I commanded, and I was a Group Captain who had no business flying as anyone's wingman by then. But in the stretch of the Meridian campaign that we flew the same sky, we had the thing I am describing. I could keep my attention on the fight because I knew where her attention was. She could commit because she knew I would cover the way out. She had come to me a careful, bookish flier, all study and no instinct. I spent the better part of a year prying the instinct loose. The chemistry does not care about rank, and it does not last forever, and you should recognize it and be grateful for it on the days you have it.
+Elena Vasquez and I were never formally paired. She came to me a careful, bookish flier, all study and no instinct, a Lieutenant in a wing I commanded, and I spent the better part of a year prying the instinct loose. I was a Group Captain by then, and should have been flying a desk, not a wing. But that is the thing about the partnership I am describing: it does not care about rank, or about who taught whom. By the stretch of the Meridian campaign that we flew together, the student was gone and there was only the other half of my formation, a pilot whose attention I could feel without looking, who could commit because she knew I would cover the way out. I had made her, and then, somewhere I did not notice it happening, she became my equal, and then she became the better of us. Chemistry between wingmen is precious, and you should recognize it, protect it, and be grateful for it when you have it.
 
-I have told you she went in once too many and lost her flying to it. I have not told you that I was not there that day either, that the pilot whose life she was saving was not me, that I learned of it the way I have learned of most of the important things in my life, after the fact, from someone else, too far away to have done anything. I thought for a long time about whether I might have changed it had I been her wingman. I thought about it for weeks.
+The bonds do not last forever, and ours did not. The war moved us apart, the way it always does. I was eventually promoted and posted out to another theater, and Elena, who had been the serious young Lieutenant on my wing, rose the way the good ones rise, until she had a wing of her own and pilots of her own to bring home. A few years after Meridian she went in once too many, for one of hers, and it cost her her flying. I was not there that day. The pilot whose life she was saving was not me, and I learned of it the way I have learned of most of the important things in my life, after the fact, from someone else, too far away to have done anything. I thought for a long time about whether I might have changed it had I been her wingman. I thought about it for weeks.
 
 The truth is that I could not have changed it. It was not a failure of wingmanship, hers or anyone's. She did the thing she always did, and this time the dark took its price instead of letting her walk away again. Sometimes the best pilot in the sky pays in full for doing exactly the right thing. You must make your peace with that, or this trade will break you.
 
