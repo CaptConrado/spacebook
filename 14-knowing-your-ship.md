@@ -8,7 +8,7 @@ If you do not know your ship, you have no business flying it in combat.
 
 I do not mean knowing it in the abstract. I do not mean knowing its specifications from a performance manual, or its silhouette from a recognition card, or its combat history from a squadron archive.
 
-I mean knowing it in the way that a horseman knows their horse. I mean knowing how it handles at different altitudes and different speeds and different fuel states. I mean knowing the sound it makes when the engines are stressed, and the way the airframe vibrates when you approach the edge of its envelope. I mean knowing where the rivets are, and which panels your crew chief has replaced recently, and which instruments tend to drift and which are reliable.
+I mean knowing it in the way that a rider knows their horse. I mean knowing how it handles at different gravity states and different speeds and different fuel loads. I mean knowing the sound it makes when the engines are stressed, and the way the hull vibrates when you approach the edge of its envelope. I mean knowing where the rivets are, and which panels your crew chief has replaced recently, and which instruments tend to drift and which are reliable.
 
 I mean knowing the ship the way you know your own body.
 
@@ -56,7 +56,7 @@ Know your crew chief. Know their name. Know their family. Know how they take the
 
 This is not about being nice for its own sake, though that is a good reason on its own. It is about being a professional pilot who understands that their ship is a team effort, and that the team extends beyond the cockpit.
 
-And there is a deeper reason, which I will put plainly though the regulations would prefer I did not. Every senior pilot trims. The ship is delivered to you with its computer tuned for the average flier, cautious by design, quick to warn, quick to hold you back from the edges of what the airframe can do. You feel its caution in your body, because the ship speaks its state to you through the helmet, the fuel and the heat and the strain arriving as sensation as much as number, and the default profile is calibrated to make you flinch a little early. As you learn the ship, you trim that caution back, a little at a time, until the warnings come when you want them and not before. It is against the rules. The senior officers who write the rules trimmed their own ships when they were squadron leaders, and they know it, and they look the other way, because the rule exists to protect the pilot who has not yet earned the right to ignore it and to be ignored by the pilot who has. But you cannot trim a ship alone. The crew chief knows your profile. The crew chief maintains it, defends it, hides it from the inspections that would flag it, and tells you the truth when your trim has drifted past sense into danger. They could kill you with an afternoon's quiet work on a panel and you would never know until you were in the dark with the enemy. You trust them with your life every single time you climb in. That kind of trust is not issued with the ship. It is built, one sortie at a time, over years, and it is the most important thing in this chapter.
+And there is an even deeper reason, which I will put plainly though the regulations would prefer I did not. Every senior pilot trims. The ship is delivered to you with its computer tuned for the average flier, cautious by design, quick to warn, quick to hold you back from the edges of what the hull can do. You feel its caution in your body, because the ship "speaks" its state to your helmet neural link, the fuel and the heat and the strain arriving as sensation as much as number, and the default profile is calibrated to make you flinch a little early. As you learn the ship, you trim that caution back, a little at a time, until the warnings come when you want them and not before. It is against the rules. The senior officers who write the rules trimmed their own ships when they were squadron leaders, and they know it, and they look the other way, because the rule exists to protect the pilot who has not yet earned the right to ignore it and to be ignored by the pilot who has. But you cannot trim a ship alone. The crew chief knows your profile. The crew chief maintains it, defends it, hides it from the inspections that would flag it, and tells you the truth when your trim has drifted past sense into danger. They could kill you with an afternoon's quiet work on a panel and you would never know until you were in the dark with the enemy. You trust them with your life every single time you climb in. That kind of trust is not issued with the ship. It is built, one sortie at a time, over years, and it is the most important thing in this chapter.
 
 
 ## Flying the Envelope
@@ -65,7 +65,7 @@ To know your ship, you must fly it at every part of its performance envelope.
 
 This does not mean that you should be performing dangerous experimental maneuvers in combat. It means that in training, in practice sorties, in the simulator, you should be pushing the ship to see how it behaves in every regime.
 
-How does it handle at maximum altitude? At minimum altitude? At maximum speed? At minimum controllable speed? At high g-loading? At low fuel states? With one engine out? With weapons loaded versus unloaded? With sensors degraded?
+How does it handle deep in a gravity well? Far from any? At maximum speed? At minimum thrust? At high g-loading? At low fuel states? With one engine out? With weapons loaded versus unloaded? With sensors degraded?
 
 All of these conditions may arise in combat. Some of them may arise suddenly and without warning. And if the first time you experience them is in the middle of a fight, you will not have the time or the attention to learn how the ship behaves. You will be struggling with an unfamiliar ship while also trying to fight. And the fight will go poorly.
 
@@ -88,7 +88,7 @@ I do not want to encourage superstition. A pilot who believes they will die if t
 
 But I also want to acknowledge that the rituals serve a purpose, and the purpose is real.
 
-The rituals create a relationship between the pilot and the ship. They transform the ship from a piece of assigned equipment into something the pilot has an investment in. They make the ship their, in a psychological sense, even when it is technically the property of the service.
+The rituals create a relationship between the pilot and the ship. They transform the ship from a piece of assigned equipment into something the pilot has an investment in. They make the ship theirs, in a psychological sense, even when it is technically the property of the service.
 
 A pilot who has that relationship with their ship will fly the ship better. Not because the rituals have magical power, but because the pilot who cares about their ship is the pilot who pays attention to it, who notices its quirks, who treats it with the respect that a complex machine deserves.
 
