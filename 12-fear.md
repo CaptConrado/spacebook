@@ -10,7 +10,7 @@ Fear is a subject that combat instructors avoid, and there are reasons for the a
 
 I have thought about this, and I have concluded that I must write the chapter anyway.
 
-The reason is that the pilots who do not talk honestly about fear are the pilots who are most vulnerable to it. A pilot who believes they should not feel fear, when they inevitably does feel fear, will interpret the feeling as a personal failing. They will try to suppress it. They will try to pretend it is not happening. They will try, in short, to fly as if the fear were not there.
+The reason is that the pilots who do not talk honestly about fear are the pilots who are most vulnerable to it. A pilot who believes they should not feel fear, when they inevitably do feel fear, will interpret the feeling as a personal failing. They will try to suppress it. They will try to pretend it is not happening. They will try, in short, to fly as if the fear were not there.
 
 This does not work. The fear is there. It does not go away because you have refused to acknowledge it. And a pilot who is suppressing unacknowledged fear is a pilot whose cognitive resources are being partially consumed by the suppression, and therefore a pilot who is not flying at their best.
 
@@ -38,7 +38,7 @@ This is the problem that every combat pilot must solve.
 
 Let me be specific about the effects of fear on your flying, because the specifics matter.
 
-Your field of view narrows. This is sometimes called perceptual narrowing or tunnel vision, and it is a real, measurable phenomenon. Under stress, your visual attention collapses onto whatever object your brain has identified as the primary threat. You stop scanning. You stop seeing the periphery. You become, effectively, one-eyed and blind to most of the sky.
+Your field of view narrows. This is sometimes called perceptual narrowing or tunnel vision, and it is a real, measurable phenomenon. Under stress, your visual attention collapses onto whatever object your brain has identified as the primary threat. You stop scanning. You stop seeing the periphery. You become, effectively, one-eyed and blind to most of the dark.
 
 Your sense of time distorts. Some pilots report that time seems to slow down. Others report the opposite, that whole seconds vanish from their memory, that they cannot reconstruct the sequence of events of an engagement. Either form of distortion makes it harder to fly well.
 
