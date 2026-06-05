@@ -25,7 +25,7 @@ The briefing officer has this information. The pilots need it. The briefing is t
 
 This means that a briefing is not successful simply because the briefing officer has delivered the information. A briefing is successful when the pilots have received it, understood it, and are prepared to act on it. And the pilots bear responsibility for that second half of the transaction.
 
-If a pilot sits through a briefing and does not understand something, and does not ask about it, and then flies the mission and gets people killed because they were operating on a misunderstanding, the fault is partly their. The briefing officer may have been unclear. The briefing may have been too fast. But the pilot had an opportunity to clarify, and they did not take it, and the responsibility for that failure is on them.
+If a pilot sits through a briefing and does not understand something, and does not ask about it, and then flies the mission and gets people killed because they were operating on a misunderstanding, the fault is partly theirs. The briefing officer may have been unclear, or too fast. But if the pilot had an opportunity to clarify, and chose not to, then responsibility for the failure is on them.
 
 A pilot who treats the briefing as a passive experience, who sits there, who lets the information wash over them, who nods along without really engaging, is a pilot who is not getting what they should be getting from the briefing.
 
@@ -74,9 +74,9 @@ Second, the pilot who does not ask questions is not the pilot who understood eve
 
 Ask questions. Ask them early. Ask them specifically.
 
-A good question names the specific piece of information that is unclear. “Sir, on the recovery vector, is that magnetic or grid heading?”, that is a good question. “Could you go over the recovery again?”, that is a bad question, because it asks the briefing officer to repeat everything they have already said, rather than identifying the specific gap.
+A good question names the specific piece of information that is unclear. “Ma'am, on the recovery vector, is that a system-grid heading or relative to our own nose?” is a good question. “Could you go over the recovery again?” is a bad question, because it asks the briefing officer to repeat everything they have already said, rather than identifying the specific gap.
 
-Senior pilots, watching, will note which rookies ask good questions and which rookies ask bad ones. The good-question rookies will be marked as pilots worth developing. The bad-question rookies will be marked as pilots who have not yet learned to listen.
+Senior pilots will note which new pilots are asking good questions and which are asking bad ones. The good-question ones will be marked as pilots worth developing. The bad-question ones will be marked as pilots who have not yet learned to listen. Again, this should not ever discourage you from asking a question. The goal is zero ambiguity. Just be sure to consistently improve your ability to ask it.
 
 
 ## After the Briefing
@@ -85,7 +85,7 @@ After the briefing, you do not immediately go to your ship.
 
 You take five minutes. You sit somewhere quiet. You review your notes. You visualize the mission, from start to finish, in your mind’s eye. You see yourself performing each phase of it. You note anything that still does not make sense.
 
-If anything still does not make sense, you track down the briefing officer and you ask them about it, privately, before you launch. A briefing officer who has just finished a briefing is usually available for a few minutes of one-on-one follow-up, and they will almost always prefer to clarify a misunderstanding on the ground than to have a pilot execute on it in the air.
+If anything still does not make sense, you track down the briefing officer and you ask them about it, privately, before you launch. A briefing officer who has just finished a briefing is usually available for a few minutes of one-on-one follow-up, and they will almost always prefer to clarify a misunderstanding on the ground than to have a pilot execute on it in flight.
 
 If the briefing officer is not available, you find your flight lead, and you ask them. If they are not available, you ask your wingman. Do not launch a mission with an unresolved misunderstanding about the briefing. The mission is not worth more than the cost of a few minutes of clarification.
 
