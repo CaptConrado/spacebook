@@ -94,4 +94,4 @@ Good luck out there. I believe in you, or I would not have bothered writing any 
 
 Now get out of my office and go fly.
 
-. Commodore Bobby “Mulligan” Thorne, Ret.
+Commodore Bobby “Mulligan” Thorne, Ret.

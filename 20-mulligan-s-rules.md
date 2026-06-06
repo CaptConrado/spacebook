@@ -20,7 +20,7 @@ A pilot who internalizes these rules will not thereby become an ace. A pilot who
 
 7. A tight grip is a dead grip.
 
-8. The instruments lie. The canopy does not.
+8. The instruments lie. Sometimes the image does too.
 
 9. Every turn costs you something. Know what it costs before you make it.
 
@@ -42,9 +42,9 @@ A pilot who internalizes these rules will not thereby become an ace. A pilot who
 
 18. If you are lost, admit it. Nobody has ever died from asking for a vector home.
 
-19. Altitude is a bank account. Do not spend it on whims.
+19. Energy is a bank account. Do not spend it on whims.
 
-20. The vertical is a gift. Use it.
+20. In a well, the vertical is a gift. Use it.
 
 21. Never follow an enemy into a descent they have chosen. They are taking you somewhere they want you to be.
 
@@ -70,7 +70,7 @@ A pilot who internalizes these rules will not thereby become an ace. A pilot who
 
 32. The best maneuver is the one the enemy did not expect. The second best is the one you have practiced until it is automatic.
 
-33. A rookie who asks too many questions is annoying. A rookie who asks too few questions is dead.
+33. A new pilot who asks too many questions is annoying. A rookie who asks too few questions is dead.
 
 34. The briefing is not a lecture. It is a working meeting. Participate accordingly.
 

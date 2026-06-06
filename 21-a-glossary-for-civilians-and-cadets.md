@@ -6,7 +6,7 @@ THIS glossary is for the reader who has picked up this book without a thorough b
 
 Ace. Traditionally, a pilot with five or more confirmed kills in combat. In practice, the threshold varies by service and era, and the title carries more weight in some cultures than in others. I use the term in its traditional sense.
 
-Bank account, energy. A mental model in which a ship’s combat potential is understood as the sum of its velocity, altitude, and fuel. See Chapter 4.
+Bank account, energy. A mental model in which a ship’s combat potential is understood as the sum of its velocity, altitude (in a gravity well), and fuel. See Chapter 4.
 
 Bogey. An unidentified contact. Not yet confirmed as hostile, but treated with appropriate caution until identified.
 
@@ -14,7 +14,7 @@ Break. A hard, immediate turn, usually executed defensively. “Break left” an
 
 Burn. To run the engines at a power setting that consumes fuel for thrust. “Burning” implies active engine use, as opposed to coasting on momentum.
 
-Canopy. The transparent dome over the pilot’s cockpit. The pilot’s primary window on the world outside the ship.
+Canopy. The transparent dome over the pilot’s cockpit. Used in harbor when the blast shields are retracted; in combat the shields are up and the pilot flies by the image.
 
 Clear. A wingman call indicating that a specified threat is no longer present or no longer a concern.
 
@@ -28,7 +28,7 @@ Deflection shot. A shot taken at a target crossing the shooter’s line of fire 
 
 Disengage. To break contact with an enemy and leave the area of engagement. See Chapter 9.
 
-Energy state. The total combat potential of a ship at a given moment, considering its velocity, altitude, and fuel reserves.
+Energy state. The total combat potential of a ship at a given moment, considering its velocity, altitude (in a gravity well), and fuel reserves.
 
 Engaged. A pilot is engaged when they are actively committed to a combat action that requires their full attention. A wingman who calls “engaged” is telling their lead that they are not available for other tasks.
 
@@ -46,7 +46,7 @@ Gunnery. The art and science of aiming and firing a ship’s weapons.
 
 Hit. A confirmed connection between your projectiles and the enemy’s ship. May or may not result in a kill.
 
-Instantaneous turn rate. The fastest rate at which a ship can change heading at a given moment, using maximum available lift and thrust. Not sustainable for more than a few seconds. See Chapter 6.
+Instantaneous turn rate. The fastest rate at which a ship can change heading at a given moment, using maximum available maneuvering thrust. Not sustainable for more than a few seconds. See Chapter 6.
 
 Joy, no joy. “Joy” means visual contact with a specified target. “No joy” means no visual contact. Standard wingman calls.
 
@@ -78,7 +78,7 @@ Stick. The primary flight control, held in the pilot’s right hand, which direc
 
 Sustained turn rate. The fastest rate at which a ship can change heading while maintaining its energy state indefinitely. Slower than the instantaneous turn rate, but usable for extended engagement. See Chapter 6.
 
-Tactical display. The cockpit instrument that shows the positions of known contacts in the ship’s sensor envelope. Useful, but not a substitute for looking out the canopy.
+Tactical display. The cockpit instrument that shows the positions of known contacts in the ship’s sensor envelope. Useful, but not a substitute for the image.
 
 Tally. Visual contact with a specified target. See “joy.”
 
@@ -88,10 +88,10 @@ Throttle. The primary power control, held in the pilot’s left hand, which adju
 
 Tracking. Keeping one’s guns aligned with a moving target, particularly during a turn. See Chapter 7.
 
-Vertical, the. The third dimension of maneuvering, upward and downward, as opposed to the horizontal plane. See Chapter 6.
+Vertical, the. The third dimension of maneuvering, upward and downward, as opposed to the horizontal plane. Meaningful inside a gravity well; in deep space, all directions are equivalent. See Chapter 6.
 
 Wing, wingman. The pilot flying in the supporting position in a two-ship formation. See Chapter 8.
 
 This book is dedicated to Elena Vasquez, who saved my life and became an Ace over Meridian Prime, and to the memory of all the pilots whose lessons I have tried to pass on.
 
-. B.T.
+B.T.
