@@ -21,13 +21,13 @@ Your job is to fly the way you fly, as well as you can fly, within the limitatio
 
 I call this the comparison trap, and it is the single most common error I have observed in young pilots.
 
-A rookie joins their squadron. They look around at the veterans. They see one pilot who specializes in aggressive knife-fight engagements, closing to minimum range and using short bursts to devastating effect. They see another pilot who is a finesse flyer, using the vertical and energy management to outmaneuver opponents who cannot keep up with their geometry. They see a third pilot who is a long-range specialist, using their ship’s endurance to outlast enemies and pick them off when they run low on fuel.
+A new pilot joins their squadron. They look around at the veterans. They see one pilot who specializes in aggressive knife-fight engagements, closing to minimum range and using short bursts to devastating effect. They see another pilot who is a finesse flyer, using vector and energy management to outmaneuver opponents who cannot keep up with their geometry. They see a third pilot who is a long-range specialist, using their ship’s endurance to outlast enemies and pick them off when they run low on fuel.
 
-The rookie wants to be all three of these pilots at once.
+The new pilot wants to be all three of these pilots at once.
 
 They cannot be. Nobody can be. Each of these veterans has developed a specific style over years of flying, and each style is rooted in the veteran’s specific strengths. The aggressive pilot is probably a natural gunner with fast reflexes. The finesse pilot is probably someone who came up in a ship that rewarded energy management. The long-range pilot is probably someone whose temperament favors patience over aggression.
 
-The rookie has no way of knowing which of these styles, if any, matches their own strengths. But if they try to emulate all three, they will be bad at all three. They will be a less effective version of the aggressive pilot, and a less effective version of the finesse pilot, and a less effective version of the long-range pilot. They will not have developed their own style, the style that fits their actual strengths, because they have been too busy imitating others.
+They have no way of knowing which of these styles, if any, matches their own strengths. But if they try to emulate all three, they will be bad at all three. They will be a less effective version of the aggressive pilot, and a less effective version of the finesse pilot, and a less effective version of the long-range pilot. They will not have developed their own style, the style that fits their actual strengths, because they have been too busy imitating others.
 
 This is how promising pilots become mediocre.
 
@@ -40,7 +40,7 @@ The short answer is: you fly a lot, and you pay attention to what works for you.
 
 The longer answer requires some self-examination.
 
-Ask yourself what parts of flying come most naturally to you. Are you a good gunner, who can track a target across complex geometry and land hits that other pilots miss? Are you a good energy manager, who has an instinctive feel for the state of your fuel and altitude? Are you a good tactician, who can see the larger engagement and position yourself advantageously? Are you a good communicator, who keeps their wingman informed and responds quickly to incoming calls?
+Ask yourself what parts of flying come most naturally to you. Are you a good gunner, who can track a target across complex geometry and land hits that other pilots miss? Are you a good energy manager, who has an instinctive feel for the state of your fuel and energy? Are you a good tactician, who can see the larger engagement and position yourself advantageously? Are you a good communicator, who keeps their wingman informed and responds quickly to incoming calls?
 
 Every pilot has natural strengths. Yours are there, if you will look for them.
 
@@ -75,7 +75,7 @@ What you can do is take from their example the things that are universal, the di
 
 The great aces of history did not become great aces by imitating earlier aces. They became great aces by flying their own fight, in their own way, against their own enemies. They are models of professional development, not templates to be copied.
 
-Honor your heroes by becoming your own kind of pilot. That is what they would want. That is what every ace I ever knew told the rookies who asked them how to be great.
+Honor your heroes by becoming your own kind of pilot. That is what they would want. That is what every ace I ever knew told the young pilots who asked them how to be great.
 
 Fly your own fight. It is the only one you have.
 
