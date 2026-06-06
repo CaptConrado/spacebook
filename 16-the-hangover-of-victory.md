@@ -38,7 +38,7 @@ I call complacency the quiet killer, because it does not announce itself.
 
 Enemy fire announces itself. Mechanical failure announces itself. Even fear announces itself, by the physical symptoms it produces.
 
-Complacency is silent. It creeps in. It feels, from the inside, like nothing. The pilot who has become complacent does not know they have become complacent. They feel exactly as they always has. They believe they are flying exactly as they always has. The changes are below the threshold of their own awareness.
+Complacency is silent. It creeps in. It feels, from the inside, like nothing. The pilot who has become complacent does not know they have become complacent. They feel exactly as they always have. They believe they are flying exactly as they always have. The changes are below the threshold of their own awareness.
 
 The only way to fight the quiet killer is to actively, deliberately, look for it.
 
