@@ -1,6 +1,6 @@
 **CHAPTER SIXTEEN**
 
-# Growing Old in a Young Man's Game
+# Growing Old in a Young Person's Game
 
 COMBAT flying is a young person’s profession.
 
@@ -57,7 +57,7 @@ This is not optional. A pilot who flew aggressive knife-fight engagements in the
 
 The adjustment, ideally, happens before the catastrophic loss. The aging pilot notices that their snap-shots are no longer as clean, that they are winning close engagements more narrowly than before, that they are coming home with more damage than they used to take. They do not wait until one of those engagements ends in a shot-down ship. They adjust proactively.
 
-The adjustment is usually toward patience. The older pilot stops trying to win the fast fights and starts trying to win the slow fights. They use position instead of speed. They use judgment instead of reflexes. They use the vertical, the energy bank, the long perspective, all the assets of the experienced pilot.
+The adjustment is usually toward patience. The older pilot stops trying to win the fast fights and starts trying to win the slow fights. They use position instead of speed. They use judgment instead of reflexes. They use the geometry, the energy bank, the long perspective, all the assets of the experienced pilot.
 
 They become, in effect, a different kind of pilot than they were when they were young. The same ship, the same training, but a different pilot, because they are a different person.
 
@@ -103,7 +103,7 @@ If you are less fortunate, the day will arrive suddenly. A medical event. A squa
 
 Either way, the day comes.
 
-The pilots who handle it well are the pilots who have understood, throughout their careers, that flying was a thing they did, not a thing they were. The flying ends. The pilot remains, as an instructor, as a commander, as a retiree, as a man or woman who did something remarkable for a span of years and who will now do something else.
+The pilots who handle it well are the pilots who have understood, throughout their careers, that flying was a thing they did, not a thing they were. The flying ends. The pilot remains, as an instructor, as a commander, as a retiree, as someone who did something remarkable for a span of years and who will now do something else.
 
 The pilots who handle it badly are the ones who confused the flying with their identity. For them, the end of flying is the end of themselves, and they are often lost in the years that follow.
 
